@@ -8,7 +8,7 @@ http://www.ti.com/lit/ds/symlink/ina219.pdf
 
 The I2C pull-up resistors values are 1K Ohms. The address lines for the INA219 are both tied to ground via 10k resistors.
 
-The INA219 is connected to the Pi using the I2C bus. A diagram identifying the I2C (SCL, SDA) on the Pi can be founf here:
+The INA219 is connected to the Pi using the I2C bus. A diagram identifying the I2C (SCL, SDA) on the Pi can be found here:
 
 http://mtherkildsen.dk/post/the-sunpi/
 
